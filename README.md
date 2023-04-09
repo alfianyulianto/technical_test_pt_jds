@@ -1,3 +1,22 @@
+### Langkah-langkah menggunakan sistem ini:
+1. Agar terdapat folder vendor jalankan ```composer install```
+2. Jalankan migrasi dan seeder ```php artisan migrate:fresh --seed```
+3. Buat client passport ```php artisan passport:install```
+
+## Credential Users
+# Admin
+- email : admin@gmail.com
+- password : password
+
+# User1
+- email : alfian@gmail.com
+- password : 123456
+
+# User1
+- email : budi@gmail.com
+- password : 123456
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
